@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.frmSelenium.resources
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.Properties.Resources.resources
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\bin\Debug\SeleniumTestFrameWork.exe.config
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\bin\Debug\SeleniumTestFrameWork.exe
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\bin\Debug\SeleniumTestFrameWork.pdb
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\bin\Debug\WebDriver.dll
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\bin\Debug\WebDriver.Support.dll
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.csproj.CopyComplete
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.exe
+C:\Users\mathe\OneDrive\DD\CTI\C#\SeleniumTestFrameWork\SeleniumTestFrameWork\obj\Debug\SeleniumTestFrameWork.pdb
